@@ -1,0 +1,21 @@
+Sample input: 
+topics: 
+- Artificial Intelligence
+- Climate Change
+
+
+Sample output: 
+Summaries:
+-----------------------------------
+Topic: Artificial Intelligence
+-----------------------------------
+AI in Medicine - Summary: AI is transforming healthcare.
+AI Ethics - Summary: Ethical concerns are rising in AI.
+
+-----------------------------------
+Topic: Climate Change
+-----------------------------------
+Climate Models - Summary: Climate models predict global warming.
+
+Audio generated: audio_outputs/Artificial_Intelligence.mp3
+Audio generated: audio_outputs/Climate_Change.mp3
