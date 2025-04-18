@@ -15,7 +15,7 @@ It’s designed to help researchers, students, and professionals stay up-to-date
 
 ⚙️ Setup Instructions
 Clone the repo
-git clone https://github.com/your-username/research-agent.git
+git clone https://github.com/Karthikbulusu18/research-agent.git
 cd research-agent
 
 
